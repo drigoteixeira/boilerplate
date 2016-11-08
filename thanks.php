@@ -13,7 +13,15 @@
     <?php include __DIR__ . '/build/in/header.php'; ?>
 
     <main role="main">
-
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Obrigado pelo seu contato!</h1>
+                    <p>Nossa equipe de atendimento irá responder sua mensagem assim que for possível. Tenha um ótimo dia!</p>
+                    <p>Continue navegando</p>
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- Footer -->
