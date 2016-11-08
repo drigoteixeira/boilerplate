@@ -26,13 +26,12 @@
                     <div class="panel panel-default">
                         <div class="panel-body">
                             <h3>Fantastic!</h3>
-                                <p>Wireframe Kit is, without any doubt, a powerful tool (especially, in the right hands) and we hope that it will help you make a good start for lots of your projects and ideas! just a perfectly simple way of creating a great prototype</p>
+                            
+                            <p>Wireframe Kit is, without any doubt, a powerful tool (especially, in the right hands) and we hope that it will help you make a good start for lots of your projects and ideas! just a perfectly simple way of creating a great prototype</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-8">
-                    
-                    
                    
                     <p>Although, today we’re even more excited to release our Wireframe Kit. The name speaks for itself and how you could’ve already guessed, Wireframe Kit is a perfect instrument for creating serious prototypes and complex web projects. Basically, the kit consists of more than a hundred ready-to-use elements that you can combine to get the exact prototype you want. We tried to make it as versatile as possible, at the same time getting rid of all the redundant features to help you save time.</p>
                     

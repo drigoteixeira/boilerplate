@@ -1,7 +1,7 @@
 <a href="#conteudo" class="sr-only go-content" tabindex="1" accesskey="1">Ir para conteúdo</a>
 <header class="header">
 
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             
             <div class="navbar-header">
