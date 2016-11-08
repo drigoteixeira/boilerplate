@@ -1,7 +1,7 @@
-<footer class="footer container">
+<footer class="footer">
     <div class="container">
        <div class="row">
-           <p>Nome do website</p>
+           <p class="text-muted">Nome do website</p>
        </div> 
     </div>
 </footer>
