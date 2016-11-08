@@ -1,5 +1,5 @@
 <a href="#conteudo" class="sr-only go-content" tabindex="1" accesskey="1">Ir para conteúdo</a>
-<header class="header" role="banner">
+<header class="header">
 
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -22,7 +22,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Templates <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#">Seção 1</a></li>
-                                <li><a href="#">Seção 2</1></a></li>
+                                <li><a href="#">Seção 2</a></li>
                                 <li><a href="#">Seção 3</a></li>
                                 <li role="separator" class="divider"></li>
                                 <li><a href="#">Seção 4</a></li>

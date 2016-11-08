@@ -1,4 +1,4 @@
-<footer class="footer container" role="contentinfo">
+<footer class="footer container">
     <div class="container">
        <div class="row">
            <p>Nome do website</p>

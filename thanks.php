@@ -6,14 +6,14 @@
 <head>
     <meta charset="utf-8">
     <title>UIKIT</title>
-    <?php include __DIR__ . '/build/in/meta.php'; ?>
-    <?php include __DIR__ . '/build/in/estilos.php'; ?>
+    <?php include "build/in/meta.php"; ?>
+    <?php include "build/in/estilos.php"; ?>
 </head>
 <body>
     <!-- Header -->
-    <?php include __DIR__ . '/build/in/header.php'; ?>
+    <?php include "build/in/header.php"; ?>
 
-    <main role="main">
+    <main class="main">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -28,10 +28,8 @@
     </main>
 
     <!-- Footer -->
-    <?php include __DIR__ . '/build/in/footer.php'; ?>
+    <?php include "build/in/footer.php"; ?>
 
-</body>
-</html>
 </body>
 </html>
 
