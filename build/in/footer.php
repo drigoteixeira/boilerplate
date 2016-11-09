@@ -5,5 +5,5 @@
        </div> 
     </div>
 </footer>
-<script src="/build/js/jquery.min.js"></script>
-<script src="/build/js/scripts.js"></script>
+<script src="build/js/libs/jquery.min.js"></script>
+<script src="build/js/scripts.js"></script>
