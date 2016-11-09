@@ -2,7 +2,7 @@
 <!--[if IE 7]> <html class="no-js ie7" lang="pt-br"> <![endif]-->
 <!--[if IE 8]> <html class="no-js ie8" lang="pt-br"> <![endif]-->
 <!--[if IE 9]> <html class="no-js ie9" lang="pt-br"> <![endif]-->
-<html>
+<html class="cover-page-full">
 <head>
     <meta charset="utf-8">
     <title>UIKIT</title>
@@ -22,14 +22,14 @@
                 <div class="cover-container">
                     <div class="masthead clearfix">
                         <div class="inner">
-                            <h3 class="masthead-brand">Brand</h3>
+                            <h3 class="masthead-brand">UI Wireframe</h3>
                         </div>
                     </div>
 
                     <div class="inner cover">
-                        <h1 class="cover-heading">Cover your page.</h1>
-                        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-                        <p class="lead"><a href="#" class="btn btn-lg btn-primary">Learn more</a></p>
+                        <h1 class="cover-heading">UI Wireframe</h1>
+                        <p class="lead">Join our beta list for early access & hear more about our behind the scene stories.</p>
+                        <p class="lead"><a href="#" class="btn btn-lg btn-primary">Join us</a></p>
                     </div>
                 </div>
                 <!-- Footer -->

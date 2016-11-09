@@ -33,13 +33,7 @@
                 </div>
                 <div class="col-md-8">
                    
-                    <p>Although, today we’re even more excited to release our Wireframe Kit. The name speaks for itself and how you could’ve already guessed, Wireframe Kit is a perfect instrument for creating serious prototypes and complex web projects. Basically, the kit consists of more than a hundred ready-to-use elements that you can combine to get the exact prototype you want. We tried to make it as versatile as possible, at the same time getting rid of all the redundant features to help you save time.</p>
                     
-                    <div class="page-header">
-                        <h3>A whole lot of inspiration you can get from the vast variety of combinations</h3>
-                    </div>
-                    
-                    <p>Wireframe Kit is a professional instrument; here you won’t find any bright interface or colorful layout, only a precise set of tools to make a working prototype of any complexity. So, why don’t we summarize all we have here: a set of 130 elements, perfectly fitting each other. Click, drag, resize, adapt, combine, just like that. An excellent way of preparing a project’s wireframe and presenting it to the customer before thinking of the graphic design.</p>
                 </div>
             </div>
         </div>

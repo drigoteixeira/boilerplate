@@ -25,7 +25,7 @@
         
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="thumbnail">
                         <img src="http://placehold.it/350x180">
                             <div class="caption">
@@ -35,7 +35,7 @@
                             </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="thumbnail">
                         <img src="http://placehold.it/350x180">
                             <div class="caption">
@@ -45,7 +45,17 @@
                             </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
+                    <div class="thumbnail">
+                        <img src="http://placehold.it/350x180">
+                            <div class="caption">
+                                <h3>Thumbnail label</h3>
+                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
                     <div class="thumbnail">
                         <img src="http://placehold.it/350x180">
                             <div class="caption">
@@ -68,6 +78,46 @@
                 </div>
             </div>
         </div>
+        
+        <div class="container">
+           
+            <div class="row">
+               
+                <div class="col-lg-3 text-center">
+                    <i class="fa fa-users" aria-hidden="true"></i>
+                    <h3>Group chat</h3>
+                    <p>Up to 100 participants in a conversation</p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <i class="fa fa-key" aria-hidden="true"></i>
+                    <h3>Privacy</h3>
+                    <p>Add a password to protect your room</p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <i class="fa fa-check-circle" aria-hidden="true"></i>
+                    <h3>Truly simple</h3>
+                    <p>No signup, downloads, or payment required</p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <i class="fa fa-lock" aria-hidden="true"></i>
+                    <h3>Security</h3>
+                    <p>Your conferences are encrypted by default</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="http://placehold.it/520x300">
+                </div>
+                <div class="col-lg-6">
+                    <h2>Subscribers aplenty! Emails doubly so!</h2>
+                    <p>Never say never, until now! With its advanced targeting and display options for optin forms, ConvertGrid comes with a promise of never having to pay extra for another tool. Merge your email marketing needs to get more subscribers, send more emails, and maximize your traction.</p>
+                </div>
+            </div>
+        </div>
+        
         
     </main>
 
